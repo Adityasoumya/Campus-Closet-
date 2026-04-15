@@ -1,5 +1,3 @@
-# Campus-Closet-
-
 # Campus Closet 👕
 
 A campus-based clothing rental platform built to make outfit access easy and affordable for students.
